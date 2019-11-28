@@ -1,0 +1,16 @@
+{
+  "temporary_directory": "D:/Workspace/htdocs/stereo-vision/data/tmp/",
+  "calibration_files_directory": "D:/Workspace/htdocs/stereo-vision/data/test13/calibration-files/",
+  "calibration_data_directory": "D:/Workspace/htdocs/stereo-vision/data/test13/calibration-data/",
+  "examples_directory": "D:/Workspace/htdocs/stereo-vision/data/test13/examples/",
+  "square_size_mm": 65,
+  "pattern_rows": 11,
+  "pattern_columns": 7,
+  "preview_width": 600,
+  "camera_0_is_left": false,
+  "rotate_left": false,
+  "rotate_right": false,
+  "webcam_resolution_x": 1600,
+  "webcam_resolution_y": 1200,
+  "webcam_exposure": -6
+}
