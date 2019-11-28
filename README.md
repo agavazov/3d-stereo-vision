@@ -7,6 +7,8 @@ Note: the project is from year ~2015 and this is my 1st experience with Python a
 ![](https://github.com/agavazov/3d-stereo-vision/raw/master/img/opencv.png)
 ![](https://github.com/agavazov/3d-stereo-vision/raw/master/img/python.png)
 
+![](https://github.com/agavazov/3d-stereo-vision/raw/master/img/depth.png)
+
 ## Advices
 
 - Before start using real cameras, try to do the things with stamps from internet (photos and calibration)
@@ -60,4 +62,6 @@ The interesting part when you generate the 3D
 
 I'm not entirely sure if this script is working properly, but it should extract the 3D shapes
 
+## Bonus
 
+2 Python scripts for car plate recognition
